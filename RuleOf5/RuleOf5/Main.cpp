@@ -2,6 +2,7 @@
 #include<vector>
 #include<string>
 #include<algorithm>
+#define _CRT_SECURE_NO_WARNINGS
 
 class Minge {
 private:
